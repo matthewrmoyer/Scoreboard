@@ -11,7 +11,7 @@ import android.widget.Button;
 
 public class Activity4 extends AppCompatActivity {
 
-    //buttons
+
     Button b1, b2, b3;
 
     @Override
