@@ -32,7 +32,7 @@ public class Activity4 extends AppCompatActivity {
 
     }
 
-///
+
     private void createListeners(){
         b1.setOnClickListener(new View.OnClickListener() {
             @Override

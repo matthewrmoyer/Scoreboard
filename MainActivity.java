@@ -61,7 +61,7 @@ b2.setOnClickListener(new View.OnClickListener() {
 
 
 
-
+//starts currentscoreactivity
     private void startCurrentScoreActivity() {
         Intent intent = new Intent(this, CurrentScore.class);
         startActivity(intent);

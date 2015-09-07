@@ -55,7 +55,7 @@ public class CurrentScore extends AppCompatActivity {
 
         outState.putInt("team1score", i);
     }
-//continues with above
+//continues with above, not finished
     @Override
     protected void onRestoreInstanceState(Bundle savedInstanceState) {
         super.onRestoreInstanceState(savedInstanceState);

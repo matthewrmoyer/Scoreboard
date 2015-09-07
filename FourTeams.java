@@ -22,7 +22,7 @@ Button b1, b2, b3, b4, b5, b6, b7, b8;
         setContentView(R.layout.activity_four_teams);
         setTitle("4 Team Game");
 
-//locks in portrait mode
+//locks screen in portrait mode
         this.setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
 
         b1 = (Button)findViewById(R.id.button1);

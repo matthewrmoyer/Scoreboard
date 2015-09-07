@@ -13,6 +13,7 @@ public class Activity3 extends AppCompatActivity {
 Button b1, b2, b3;
 
 
+    //
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
