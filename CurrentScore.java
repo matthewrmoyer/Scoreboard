@@ -23,7 +23,7 @@ public class CurrentScore extends AppCompatActivity {
 
         setTitle("Current Score");
 
-//locks in portrait mode
+//locks orientation in portrait mode
         this.setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
 
 
